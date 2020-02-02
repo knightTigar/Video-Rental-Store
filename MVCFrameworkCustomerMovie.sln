@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCFrameworkCustomerMovie", "MVCFrameworkCustomerMovie\MVCFrameworkCustomerMovie.csproj", "{EB942256-5A2D-452E-A53D-B5EF679EA34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{EB942256-5A2D-452E-A53D-B5EF679EA34B}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0E3DFB-4A93-4BC5-AD9A-DC7FC8CD8674}
+	EndGlobalSection
+EndGlobal
